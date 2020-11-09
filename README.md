@@ -1,3 +1,2 @@
-# First-scripts
-# First-scripts
-# First-scripts
+# These are my first scripts in bash
+## test
